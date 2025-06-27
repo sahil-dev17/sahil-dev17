@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-dev17&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-dev17" /> </p>
 
-- 🌱 I’m currently improving ** Mern Stack Frameworks**
+- 🌱 I’m currently improving ** Mern Stack Tech**
 
 - 💬 Ask me about **Html, CSS, Javascript,React.js**
 
