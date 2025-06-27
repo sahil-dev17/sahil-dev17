@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-dev17&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-dev17" /> </p>
 
-- 🌱 I’m currently learning **Frontend Frameworks**
+- 🌱 I’m currently improving ** Mern Stack Frameworks**
 
-- 💬 Ask me about **Html, CSS, Javascript**
+- 💬 Ask me about **Html, CSS, Javascript,React.js**
 
-- 📫 How to reach me **shrivastavasahil17@gmail.com**
+- 📫 How to reach me **shrivastavasahil759@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
